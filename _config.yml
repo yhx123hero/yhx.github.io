@@ -7,7 +7,7 @@ description: "Everything For NLP"
 keyword: "NLP DeepLeaning Keras Pytorch"
 url: "https://yhx123hero.github.io/"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-# github_repo: "https://github.com/yhx123hero/yhx123hero.github.io.git" # you code repository
+github_repo: "https://github.com/yhx123hero/yhx123hero.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
